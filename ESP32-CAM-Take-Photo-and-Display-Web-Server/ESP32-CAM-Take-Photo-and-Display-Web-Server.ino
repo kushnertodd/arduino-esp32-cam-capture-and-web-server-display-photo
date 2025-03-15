@@ -26,8 +26,8 @@
 #include <FS.h>
 
 // Replace with your network credentials
-const char* ssid = "missing...";
-const char* password = "fastnetwork";
+const char* ssid = "AragonWifi";
+const char* password = "C@+@1@c4$Me";
 
 // Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
